@@ -16,6 +16,6 @@ import tensorflow as tf
 from configure_gpu import gpu_allocator
 
 # configuring gpu
-gpu_allocator(tf, percentage_allocation=0.95)
+gpu_memory_allocator(tf, percentage_allocation=0.95)
 
 ```
