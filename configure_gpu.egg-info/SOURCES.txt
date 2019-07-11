@@ -1,0 +1,8 @@
+README.md
+setup.py
+configure_gpu/__init__.py
+configure_gpu.egg-info/PKG-INFO
+configure_gpu.egg-info/SOURCES.txt
+configure_gpu.egg-info/dependency_links.txt
+configure_gpu.egg-info/not-zip-safe
+configure_gpu.egg-info/top_level.txt
