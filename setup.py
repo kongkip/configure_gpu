@@ -7,7 +7,7 @@ with open(os.path.join(HERE, "README.md")) as fid:
     README = fid.read()
 
 setup(name='configure_gpu',
-      version='1.0',
+      version='0.1',
       description='a package for allocating tensorflow gpu memory use in python',
       url='https://github.com/kongaevans/configure_gpu',
       long_description=str(README),
